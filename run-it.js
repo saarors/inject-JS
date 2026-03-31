@@ -1,3 +1,3 @@
 const script = document.createElement('script');
-script.src = "https://raw.githubusercontent.com/saarors/inject-JS/refs/heads/main/source.js";
-document.body.appendChild(script);
+script.src = "https://cdn.jsdelivr.net/gh/saarors/inject-JS@main/source.js";
+document.head.appendChild(script);
